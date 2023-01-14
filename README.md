@@ -7,7 +7,7 @@
 <img src="video.gif" />
 </p>
 
-[Final project video]([https://www.youtube.com/watch?v=pp5F3g9YzWU&t](https://www.youtube.com/watch?v=p0JNyX4dsdw&ab_channel=RaimaSen)
+[Final project video](https://www.youtube.com/watch?v=p0JNyX4dsdw&ab_channel=RaimaSen)
 
 [Final project report](/labs/final/MEAM520_Final_Project.pdf)
 
