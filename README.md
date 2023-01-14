@@ -7,6 +7,12 @@
 <img src="video.gif" />
 </p>
 
+[Final project video](https://www.youtube.com/watch?v=pp5F3g9YzWU&t)
+
+[Final project report](/labs/final/MEAM520_Final_Project.pdf)
+
+[Final project code](/labs/final/final.py)
+
 ## Functionalities 
 -  `calculateFK.py`: Calculates the end effector position w.r.t world frame for a given joint configuration of the manipulator [Code](Lab1/calculateFK.py) | [Report](Lab1/MEAM520_lab1-2.pdf)
 -  `calculateIK6.py`: Calculates the joint configurations for given end effector position [Code](Lab2/calculateIK6.py) | [Report](Lab2/LAB2_MEAM520.pdf)
