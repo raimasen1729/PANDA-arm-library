@@ -3,7 +3,9 @@
 
 <!-- Contributors: Raima Sen -->
 
-![Alt text](video.gif)![](/Users/raimasen/Downloads/video.gif)
+<p align="center">
+<img src="video.gif" />
+</p>
 
 ## Functionalities 
 -  `calculateFK.py`: Calculates the end effector position w.r.t world frame for a given joint configuration of the manipulator [Code](Lab1/calculateFK.py) | [Report](Lab1/MEAM520_lab1-2.pdf)
