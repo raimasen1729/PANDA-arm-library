@@ -9,9 +9,9 @@
 
 [Final project video](https://www.youtube.com/watch?v=p0JNyX4dsdw&ab_channel=RaimaSen)
 
-[Final project report](/labs/final/MEAM520_Final_Project.pdf)
+[Final project report](meam5200_report.pdf)
 
-[Final project code](/labs/final/final.py)
+[Final project code](final.py)
 
 ## Functionalities 
 -  `calculateFK.py`: Calculates the end effector position w.r.t world frame for a given joint configuration of the manipulator [Code](Lab1/calculateFK.py) | [Report](Lab1/MEAM520_lab1-2.pdf)
